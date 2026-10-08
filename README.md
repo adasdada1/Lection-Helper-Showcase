@@ -29,9 +29,9 @@ Lection Helper помогает разбирать записанные лекц
 
 ![Загрузка лекции](screenshots/03-upload.png)
 
-### Видеодемонстрация
 
-[Смотреть демонстрацию ответа](https://github.com/user-attachments/assets/9a99b103-c5f1-41d2-b33d-7de987d731ea)
+### Видеодемонстрация
+[Смотреть демонстрацию ответа](https://github.com/user-attachments/assets/644cc322-73b8-46ac-8614-f3737e5274e4)
 
 
 
